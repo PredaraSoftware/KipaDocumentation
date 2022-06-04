@@ -4,7 +4,6 @@ Documentation of Kipa App
 
 1. Motivation
 2. Market Research
-  A. Roommates by Roomster
 3. Personas 
 4. Use Cases
 5. First Prototype
