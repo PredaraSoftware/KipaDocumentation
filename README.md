@@ -4,11 +4,12 @@ Documentation of Kipa App
 
 1. Motivation
 2. Market Research
-3. Personas 
-4. Use Cases
-5. First Prototype
-6. Usability Testing
-7. First Delivery
+3. Functional/Non-Functional Requirements
+4. Personas 
+5. Use Cases
+6. First Prototype
+7. Usability Testing
+8. First Delivery
 
 
 ## Task List
@@ -16,6 +17,7 @@ Documentation of Kipa App
 
 - [ ] Motivation 
 - [ ] Market Research
+- [ ] Functional/Non-Functional Requirements
 - [ ] Personas
 - [ ] Use Cases
 - [ ] First Prototype
